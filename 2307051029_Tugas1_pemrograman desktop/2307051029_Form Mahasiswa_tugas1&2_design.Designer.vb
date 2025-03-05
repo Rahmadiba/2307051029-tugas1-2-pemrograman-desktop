@@ -126,7 +126,7 @@ Partial Class Form1
         '
         Me.cbofakultas.BackColor = System.Drawing.SystemColors.WindowFrame
         Me.cbofakultas.FormattingEnabled = True
-        Me.cbofakultas.Items.AddRange(New Object() {"FMIPA", "FP", "FT", "FEB", "FKIP", "FK", "FISIP"})
+        Me.cbofakultas.Items.AddRange(New Object() {"FMIPA", "FKIP", "FEB"})
         Me.cbofakultas.Location = New System.Drawing.Point(184, 160)
         Me.cbofakultas.Name = "cbofakultas"
         Me.cbofakultas.Size = New System.Drawing.Size(307, 21)
@@ -136,7 +136,7 @@ Partial Class Form1
         '
         Me.cbojurusan.BackColor = System.Drawing.SystemColors.WindowFrame
         Me.cbojurusan.FormattingEnabled = True
-        Me.cbojurusan.Items.AddRange(New Object() {"ILMU KOMPUTER", "BIOLOGI", "BIOLOGI TERAPAN", "KIMIA", "FISIKA", "MANAJEMEN INFORMATIKA"})
+        Me.cbojurusan.Items.AddRange(New Object() {"ILMU KOMPUTER", "BIOLOGI", "MATEMATIKA", "KIMIA", "FISIKA"})
         Me.cbojurusan.Location = New System.Drawing.Point(184, 200)
         Me.cbojurusan.Name = "cbojurusan"
         Me.cbojurusan.Size = New System.Drawing.Size(458, 21)

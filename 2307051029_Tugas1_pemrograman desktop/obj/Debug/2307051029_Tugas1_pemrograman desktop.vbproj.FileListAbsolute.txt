@@ -1,0 +1,10 @@
+E:\Microsoft VS Code\2307051029_Tugas1_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\bin\Debug\2307051029_Tugas1_pemrograman desktop.exe.config
+E:\Microsoft VS Code\2307051029_Tugas1_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\obj\Debug\_2307051029_Tugas1_pemrograman_desktop.Form1.resources
+E:\Microsoft VS Code\2307051029_Tugas1_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\obj\Debug\_2307051029_Tugas1_pemrograman_desktop.Resources.resources
+E:\Microsoft VS Code\2307051029_Tugas1_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\obj\Debug\2307051029_Tugas1_pemrograman desktop.vbproj.GenerateResource.Cache
+E:\Microsoft VS Code\2307051029_Tugas1_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\bin\Debug\2307051029_Tugas1_pemrograman desktop.exe
+E:\Microsoft VS Code\2307051029_Tugas1_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\bin\Debug\2307051029_Tugas1_pemrograman desktop.pdb
+E:\Microsoft VS Code\2307051029_Tugas1_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\bin\Debug\2307051029_Tugas1_pemrograman desktop.xml
+E:\Microsoft VS Code\2307051029_Tugas1_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\obj\Debug\2307051029_Tugas1_pemrograman desktop.exe
+E:\Microsoft VS Code\2307051029_Tugas1_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\obj\Debug\2307051029_Tugas1_pemrograman desktop.xml
+E:\Microsoft VS Code\2307051029_Tugas1_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\obj\Debug\2307051029_Tugas1_pemrograman desktop.pdb

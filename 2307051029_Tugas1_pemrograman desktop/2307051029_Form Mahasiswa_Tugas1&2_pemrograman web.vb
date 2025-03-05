@@ -1,7 +1,7 @@
 ﻿Public Class Form1
 
     Private Sub btn_Click(sender As Object, e As EventArgs) Handles btn.Click
-        Dim gender As String = ""
+        Dim gender As String = "Hasil Pengisian"
 
         If rb1.Checked Then
             gender = rb1.Text
